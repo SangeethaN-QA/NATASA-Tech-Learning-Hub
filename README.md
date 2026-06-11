@@ -75,7 +75,7 @@ YouTube # https://www.youtube.com/c/NATASATech
 
 ## 👩‍💻 Author
 
-**Sangeetha Natarajan**
+Sangeetha Natarajan
 
 ---
 
